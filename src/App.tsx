@@ -236,10 +236,9 @@ function App() {
         <img
           src={darkMode ? moyemLogoLight : moyemLogo}
           alt="Moyem"
-          className="h-9 w-auto max-w-[160px] object-contain"
+          className="h-11 w-auto max-w-[180px] object-contain"
         />
       </a>
-
       <div className="flex items-center gap-3">
         <span className="hidden rounded-full border border-slate-200 bg-white px-3 py-1.5 text-xs font-medium text-slate-600 sm:inline-flex sm:text-sm dark:border-slate-700 dark:bg-slate-900 dark:text-slate-300">
           Research & Early Access
