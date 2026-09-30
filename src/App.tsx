@@ -6,7 +6,6 @@ import {
   ClipboardList,
   MessageSquareText,
   Moon,
-  Sparkles,
   Sun,
 } from "lucide-react";
 import moyemLogo from "./assets/images/moyem-logo.png";
